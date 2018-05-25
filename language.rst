@@ -3,7 +3,7 @@ Language Features
 
 .. note::
 
-  Some behaviour of the language runners can be configured. See :ref:`Configuring Langauge Runner <language_config>` for details.
+  Some behaviour of the language runners can be configured. See :ref:`Configuring Language Runner <language_config>` for details.
 
 .. _language-steps:
 
